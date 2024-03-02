@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{d5d7c4a4-e69c-4014-ab8a-a5c5fcf1658c}">
+		<property name="assetPath">
+			<value>Beep long.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.4032653061224489</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ee7e6f3e-08b8-45ee-9135-d1175b55254a}</destination>
+		</relationship>
+	</object>
+</objects>

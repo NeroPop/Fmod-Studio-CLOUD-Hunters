@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{336ae3a7-84b1-4657-8f0a-0b9d273f7a12}">
+		<property name="assetPath">
+			<value>Государственный симфонический оркестр кинематографии СССР - Земля (Из кинофильма _Земля Санникова_).mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>100.8065306122449</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ee7e6f3e-08b8-45ee-9135-d1175b55254a}</destination>
+		</relationship>
+	</object>
+</objects>

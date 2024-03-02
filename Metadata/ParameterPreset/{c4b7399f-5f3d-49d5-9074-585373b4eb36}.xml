@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{c4b7399f-5f3d-49d5-9074-585373b4eb36}">
+		<property name="name">
+			<value>Disable 2A</value>
+		</property>
+		<relationship name="folder">
+			<destination>{49fbcf9e-a140-4555-a088-62e483380318}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{4bfd0b3e-1258-423a-a77d-9498fd70d259}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{4bfd0b3e-1258-423a-a77d-9498fd70d259}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

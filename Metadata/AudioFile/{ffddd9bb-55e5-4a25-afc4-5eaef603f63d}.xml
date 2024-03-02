@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{ffddd9bb-55e5-4a25-afc4-5eaef603f63d}">
+		<property name="assetPath">
+			<value>Smexy v1.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.88816326530612244</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ee7e6f3e-08b8-45ee-9135-d1175b55254a}</destination>
+		</relationship>
+	</object>
+</objects>

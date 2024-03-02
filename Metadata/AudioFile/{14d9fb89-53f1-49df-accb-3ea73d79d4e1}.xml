@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{14d9fb89-53f1-49df-accb-3ea73d79d4e1}">
+		<property name="assetPath">
+			<value>Combat Music 3.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>68.567999999999998</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ee7e6f3e-08b8-45ee-9135-d1175b55254a}</destination>
+		</relationship>
+	</object>
+</objects>

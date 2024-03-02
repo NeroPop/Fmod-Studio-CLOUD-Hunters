@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{02b89c0f-1c8c-4bf4-b22d-099e0c802457}">
+		<property name="assetPath">
+			<value>reversed disk throw (return).mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.7877551020408164</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ee7e6f3e-08b8-45ee-9135-d1175b55254a}</destination>
+		</relationship>
+	</object>
+</objects>

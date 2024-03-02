@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{d6886df0-6c62-47ec-8a2e-80b662a9b9f2}">
+		<property name="name">
+			<value>Canteen Music</value>
+		</property>
+		<relationship name="folder">
+			<destination>{49fbcf9e-a140-4555-a088-62e483380318}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{3ffcc0e4-e741-460f-8a07-390dcbc953cd}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{3ffcc0e4-e741-460f-8a07-390dcbc953cd}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

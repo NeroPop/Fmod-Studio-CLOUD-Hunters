@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{15c1e6e5-099a-47fd-9168-fdba9e6f5c46}">
+		<property name="name">
+			<value>Low Pass EQ</value>
+		</property>
+		<relationship name="folder">
+			<destination>{49fbcf9e-a140-4555-a088-62e483380318}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{cbf04608-f575-4def-96fe-809c73c9ffa0}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{cbf04608-f575-4def-96fe-809c73c9ffa0}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

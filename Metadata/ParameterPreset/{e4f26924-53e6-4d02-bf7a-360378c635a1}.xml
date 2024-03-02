@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{e4f26924-53e6-4d02-bf7a-360378c635a1}">
+		<property name="name">
+			<value>High Apartment</value>
+		</property>
+		<relationship name="folder">
+			<destination>{49fbcf9e-a140-4555-a088-62e483380318}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{7162d60b-4fc8-415c-8cba-2b6dc0d9f384}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{7162d60b-4fc8-415c-8cba-2b6dc0d9f384}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

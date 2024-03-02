@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{d8442012-9f49-4171-a0fc-23abdb2b1234}">
+		<property name="name">
+			<value>High Pass EQ</value>
+		</property>
+		<relationship name="folder">
+			<destination>{49fbcf9e-a140-4555-a088-62e483380318}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{7e25dd70-f5d0-4417-9221-b18b84863e3f}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{7e25dd70-f5d0-4417-9221-b18b84863e3f}">
+		<property name="maximum">
+			<value>10</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{f1032ff3-a1ff-4268-9c3a-532563176600}">
+		<property name="name">
+			<value>RadioTrack</value>
+		</property>
+		<relationship name="folder">
+			<destination>{49fbcf9e-a140-4555-a088-62e483380318}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{e8050fff-3616-44fd-97d4-54120fdabd2c}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{e8050fff-3616-44fd-97d4-54120fdabd2c}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

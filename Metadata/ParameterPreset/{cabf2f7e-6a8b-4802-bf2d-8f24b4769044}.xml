@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{cabf2f7e-6a8b-4802-bf2d-8f24b4769044}">
+		<property name="name">
+			<value>Drone aggression</value>
+		</property>
+		<relationship name="folder">
+			<destination>{49fbcf9e-a140-4555-a088-62e483380318}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{97de9bf1-b9d8-4869-86c1-9dc1dae68957}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{97de9bf1-b9d8-4869-86c1-9dc1dae68957}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Workspace" id="{b618a64c-bb43-480b-b3cc-5f9f7891db59}">
+		<property name="builtBanksOutputDirectory">
+			<value>G:/Unity Projects/3-08-Cloud-Hunters/Assets/Fmod Banks</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{a72f3454-4162-4461-a23f-29197c4b91fc}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{6d6fd80c-f1a7-446f-8a15-8da8838247ae}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{fdfebfef-bc04-44f6-b4af-ba82f1f108e9}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{49fbcf9e-a140-4555-a088-62e483380318}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{78c51439-3309-45fa-bafd-47bca524ab22}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{884caa1f-048f-4421-ada9-066f0a54b8fc}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{ee7e6f3e-08b8-45ee-9135-d1175b55254a}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{68de283f-e6eb-424b-ad20-b5e20612ffbf}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{c6290aef-d34b-4016-9cec-7c9ea4dc4b68}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{5fc81129-6d51-4a67-abe5-30868761dd08}</destination>
+		</relationship>
+	</object>
+</objects>
