@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Workspace" id="{b618a64c-bb43-480b-b3cc-5f9f7891db59}">
 		<property name="builtBanksOutputDirectory">
-			<value>G:/Unity Projects/3-08-Cloud-Hunters/Assets/Fmod Banks</value>
+			<value>G:/Unity Projects/C.L.O.U.D-Hunters/Assets/Fmod Banks</value>
 		</property>
 		<relationship name="masterEventFolder">
 			<destination>{a72f3454-4162-4461-a23f-29197c4b91fc}</destination>
