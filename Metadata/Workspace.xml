@@ -17,7 +17,7 @@
 			<destination>{49fbcf9e-a140-4555-a088-62e483380318}</destination>
 		</relationship>
 		<relationship name="masterBankFolder">
-			<destination>{78c51439-3309-45fa-bafd-47bca524ab22}</destination>
+			<destination>{067b8362-fd99-416c-9efe-9df2e8bd8892}</destination>
 		</relationship>
 		<relationship name="masterSandboxFolder">
 			<destination>{884caa1f-048f-4421-ada9-066f0a54b8fc}</destination>
